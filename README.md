@@ -1,7 +1,5 @@
 # Hi, I'm Ansh Aggarwal 👋🌐
 
-<img src="https://github.com/ansh1009/assets/blob/main/Cover.png" alt="Cover picture - Ansh Aggarwal" />
-
 I’m a Computer Science student and aspiring software engineer with a focus on **full-stack development, IoT systems**, and **AI-driven applications**. I’m currently based in Wollongong, Australia, pursuing my Bachelor's at the **University of Wollongong** with a 30% academic scholarship. 
 
 I'm passionate about building intelligent systems, intuitive interfaces, and impactful digital products. My recent work includes a **Medical Dashboard UI** with React and TypeScript, **IoT Lab Automation** with smart attendance, and contributing to research and industry projects through programs like **Study NSW** and **IEEE Xtreme**.
@@ -70,6 +68,9 @@ I'm passionate about building intelligent systems, intuitive interfaces, and imp
 
 📧 [anshaggarwal1009@gmail.com](mailto:anshaggarwal1009@gmail.com)  
 🔗 [LinkedIn](http://linkedin.com/in/ansh1009)
+---
+
+📄 [View My Resume](./AnshAggarwal%20Resume.docx)
 
 ---
 
